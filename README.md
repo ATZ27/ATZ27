@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ATZ27
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning the Linux command line and how to set up a VM
-- 💞️ I’m looking to collaborate on whatever i set my passion, which just means I dont know yet
+- 💞️ I’m looking to collaborate on whatever i set my passion on.
 - 📫 How to reach me, just email metheadrian@gmail.com
 
 <!---
